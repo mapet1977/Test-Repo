@@ -1,2 +1,2 @@
 # Test-Repo
-Tes Repo for Website Devlopment
+Test Repo for Website Devlopment
